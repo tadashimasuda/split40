@@ -1,0 +1,2 @@
+config SHIELD_SPLIT40_L
+    def $(shields_list_contains,split40_L)
