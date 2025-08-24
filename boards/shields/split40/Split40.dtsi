@@ -59,6 +59,7 @@
             , <&key_physical_attrs 100 100 1050  300       0     0     0>
             ;
     };
+    
     matrix_transform0: keymap_transform_0 {
         compatible = "zmk,matrix-transform";
         columns = <12>;
