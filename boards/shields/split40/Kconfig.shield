@@ -1,5 +1,5 @@
 config SHIELD_SPLIT40_L
-    def_bool $(shields_list_contains,split40_L)
+    def_bool $(shields_list_contains,Split40_L)
 
 config SHIELD_SPLIT40_R
-    def_bool $(shields_list_contains,split40_R)
+    def_bool $(shields_list_contains,Split40_R)

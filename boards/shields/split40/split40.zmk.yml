@@ -7,5 +7,5 @@ requires: [seeeduino_xiao_ble]
 features:
   - keys
 sibling:
-  - split40_left
-  - split40_right
+  - Split40_L
+  - Split40_R
