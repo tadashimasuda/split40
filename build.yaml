@@ -25,6 +25,3 @@ include:
     shield: settings_reset
   - board: seeeduino_xiao_ble
     shield: Split40_R
-  - board: seeeduino_xiao_ble
-    shield: Split40_L
-    snippet: zmk-usb-logging
