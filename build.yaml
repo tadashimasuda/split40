@@ -22,4 +22,6 @@ include:
   - board: seeeduino_xiao_ble
     shield: Split40_L
   - board: seeeduino_xiao_ble
+    shield: settings_reset
+  - board: seeeduino_xiao_ble
     shield: Split40_R

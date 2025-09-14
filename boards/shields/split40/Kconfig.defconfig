@@ -5,6 +5,7 @@ config ZMK_KEYBOARD_NAME
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
+
 endif
 
 if SHIELD_SPLIT40_L || SHIELD_SPLIT40_R
