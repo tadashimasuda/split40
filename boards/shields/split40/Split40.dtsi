@@ -3,12 +3,11 @@
 
 / {
     chosen {
-        zmk,physical-layout = &Split40_physical_layout;
+        zmk,physical-layout = &split40_physical_layout;
     };
-    Split40_physical_layout: Split40_physical_layout {
+    split40_physical_layout: split40_physical_layout {
         compatible = "zmk,physical-layout";
         display-name = "Default";
-
         kscan = <&kscan0>;
         transform = <&default_transform>;
 
